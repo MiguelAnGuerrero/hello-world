@@ -1,2 +1,5 @@
 # hello-world
-Test repository
+
+Hello!
+
+My name is Miguel and this is a test repository.
